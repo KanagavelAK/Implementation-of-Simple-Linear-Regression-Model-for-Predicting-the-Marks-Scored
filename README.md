@@ -74,7 +74,7 @@ print("RMSE= ",rmse)
 
 ## Output:
 ### Dataset
-![image](https://github.com/user-attachments/assets/7b3d1ca8-22c5-4a51-b0f2-632d90002644)
+![image](https://github.com/user-attachments/assets/65d24701-4da2-4dc3-94a6-9dbf890a88b5)
 
 ### Head Values
 ![image](https://github.com/user-attachments/assets/4aabee05-2ccf-4549-bd23-58d47a802462)
